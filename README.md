@@ -110,7 +110,7 @@ All animations use CSS transitions and keyframes. You can adjust timing and effe
 - **Responsive images** placeholders ready for optimization
 
 ## License
-This portfolio template is free to use for personal and commercial projects.
+This portfolio template is free to use for personal projects.
 
 ## Support
 If you need help customizing or have questions, feel free to reach out!
